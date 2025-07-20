@@ -23,3 +23,10 @@ This project is a complete web application for evaluating customer service conve
 
 ## 🏗️ Project Structure
 
+
+
+## Backend & Frontend run
+cd "D:\office work\Customer_Service_Evaluator\backend"
+>> uvicorn main:app --reload --port 8000
+cd frontend
+streamlit run app.py
